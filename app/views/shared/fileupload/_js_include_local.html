@@ -42,19 +42,14 @@
         );
 
         $('#fileupload').fileupload('option', {
-            maxFileSize:10000000,
+            maxFileSize:100000000,
             acceptFileTypes:/(\.|\/)(gif|jpe?g|png)$/i,
             sequentialUploads:true,
             process:[
                 {
                     action:'load',
                     fileTypes:/^image\/(gif|jpeg|png)$/,
-                    maxFileSize:20000000 // 20MB
-                },
-                {
-                    action:'resize',
-                    maxWidth:2048,
-                    maxHeight:2048
+                    maxFileSize:200000000 // 20MB
                 },
                 {
                     action:'save'

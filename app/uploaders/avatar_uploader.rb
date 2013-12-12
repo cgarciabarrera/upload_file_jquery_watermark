@@ -6,21 +6,40 @@ class AvatarUploader < CarrierWave::Uploader::Base
     "uploads/#{model.class.to_s.underscore}/#{mounted_as}/#{model.id}"
   end
 
-  version :thumb do
-    process :resize_to_fit => [100,100]
+
+  version :redes_sociales do
+    process :resize_to_fit => [861,574]
     process :quality => 100
   end
 
-  version :thumb2 do
-    process :resize_to_fit => [500,500]
-    process :quality => 100
+  version :grande do
+    process :resize_to_fit => [861,574]
+    process :quality => 80
     process :watermark
   end
 
-  version :thumb3 do
-    process :resize_to_fit => [500,500]
-    process :quality => 50
+  version :mediana do
+    process :resize_to_fit => [504,336]
+    process :quality => 60
+    process :watermark
   end
+
+  version :miniatura_rectangular do
+    process :resize_to_fit => [106,71]
+    process :quality => 60
+  end
+
+  version :miniatura_cuadrada do
+    process :resize_to_fill => [96,96]
+    process :quality => 100
+  end
+
+  version :micro do
+    process :resize_to_fit => [40,40]
+    process :quality => 100
+  end
+
+
 
 
   def watermark

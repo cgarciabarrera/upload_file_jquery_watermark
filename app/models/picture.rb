@@ -9,7 +9,7 @@ class Picture < ActiveRecord::Base
       "name" => read_attribute(:avatar),
       "size" => avatar.size,
       "url" => avatar.url,
-      "thumbnail_url" => avatar.thumb.url,
+      "thumbnail_url" => avatar.micro.url,
       "delete_url" => picture_path(:id => id),
       "delete_type" => "DELETE"
     }
