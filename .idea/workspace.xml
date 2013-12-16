@@ -4,7 +4,7 @@
     <list default="true" id="8834fd1b-c315-411a-837e-664c40d277f8" name="Default" comment="" />
     <ignored path="fily.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/avatar_uploader.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387194337603" ignored="false" />
+    <file path="/avatar_uploader.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387224241245" ignored="false" />
     <file path="/Gemfile" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386805703476" ignored="false" />
     <file path="/a.dummy" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386851838525" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386850571351" ignored="false" />
@@ -92,7 +92,7 @@
       <file leaf-file-name="avatar_uploader.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68878716">
+            <state line="40" column="56" selection-start="884" selection-end="884" vertical-scroll-proportion="0.23469388">
               <folding />
             </state>
           </provider>
@@ -164,10 +164,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1970" />
-    <option name="y" value="80" />
-    <option name="width" value="1869" />
-    <option name="height" value="1027" />
+    <option name="x" value="48" />
+    <option name="y" value="-4" />
+    <option name="width" value="1873" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -205,7 +205,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -468,6 +467,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -742,11 +742,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Query Language Console.Default" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="2" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Production: fily" />
-      <item index="4" class="java.lang.String" itemvalue="Rails.Development: fily" />
+      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: fily" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: fily" />
+      <item index="4" class="java.lang.String" itemvalue="Query Language Console.Default" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -759,14 +759,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1970" y="80" width="1869" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="48" y="-4" width="1873" height="1085" extended-state="6" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34634414" sideWeight="0.67050207" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3509061" sideWeight="0.67050207" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -777,7 +778,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -939,7 +939,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68878716">
+        <state line="40" column="56" selection-start="884" selection-end="884" vertical-scroll-proportion="0.23469388">
           <folding />
         </state>
       </provider>

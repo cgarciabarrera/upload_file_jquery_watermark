@@ -10,27 +10,32 @@ class AvatarUploader < CarrierWave::Uploader::Base
   version :redes_sociales do
     process :resize_to_fit => [861,574]
     process :quality => 100
+    process :sharp
 
     version :grande do
       process :resize_to_fit => [861,574]
       process :quality => 80
       process :watermark
+      process :sharp
     end
 
     version :mediana do
       process :resize_to_fit => [504,336]
       process :quality => 60
       process :watermark
+      process :sharp
     end
 
     version :miniatura_rectangular do
       process :resize_to_fit => [106,71]
       process :quality => 60
+      process :sharp
     end
 
     version :miniatura_cuadrada do
       process :resize_to_fill => [96,96]
       process :quality => 100
+      process :sharp
     end
 
 
@@ -40,6 +45,7 @@ class AvatarUploader < CarrierWave::Uploader::Base
   version :micro do
     process :resize_to_fit => [40,40]
     process :quality => 100
+    process :sharp
   end
 
 
@@ -50,4 +56,14 @@ class AvatarUploader < CarrierWave::Uploader::Base
     end
 
   end
+
+
+  def sharp
+    manipulate! do |img|
+
+      img = img.unsharp_mask(1,1,0.2,1)
+    end
+
+  end
+
 end
