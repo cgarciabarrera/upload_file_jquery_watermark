@@ -4,12 +4,27 @@
     <list default="true" id="8834fd1b-c315-411a-837e-664c40d277f8" name="Default" comment="" />
     <ignored path="fily.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/avatar_uploader.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386852727890" ignored="false" />
+    <file path="/avatar_uploader.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387194337603" ignored="false" />
     <file path="/Gemfile" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386805703476" ignored="false" />
     <file path="/a.dummy" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386851838525" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386850571351" ignored="false" />
     <file path="/_index.html" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386851802841" ignored="false" />
     <file path="/picture.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386852103966" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/app/controllers/books_controller.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944897525" ignored="false" />
+    <file path="/Dummy.txt" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944906269" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/db/schema.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/controllers/company_news_items_controller.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/views/shared/_footer.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/views/shared/_header.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/Gemfile" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/views/layouts/application.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/controllers/news_items_controller.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/config/routes.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/models/user_content.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/models/aux_portada.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/models/news_item.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/db/migrate/20130306102231_add_visible_to_users.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../fundspeople/app/views/modulos/_rotador_superior.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +47,7 @@
       <file leaf-file-name="_fileupload.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/shared/_fileupload.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.692307">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -42,9 +57,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.fileupload-fp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,7 +65,7 @@
       <file leaf-file-name="_index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/shared/fileupload/_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="125" selection-start="782" selection-end="795" vertical-scroll-proportion="-7.1923075">
+            <state line="11" column="125" selection-start="782" selection-end="795" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,9 +84,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.ui.widget.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,7 +92,7 @@
       <file leaf-file-name="avatar_uploader.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="25" selection-start="844" selection-end="844" vertical-scroll-proportion="1.1853741">
+            <state line="39" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68878716">
               <folding />
             </state>
           </provider>
@@ -100,9 +111,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/locale.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,9 +120,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,7 +128,7 @@
       <file leaf-file-name="_js_include_local.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/shared/fileupload/_js_include_local.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="65" selection-start="2233" selection-end="2233" vertical-scroll-proportion="-5.8846154">
+            <state line="44" column="65" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -157,10 +164,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="24" />
-    <option name="width" value="1871" />
-    <option name="height" value="1056" />
+    <option name="x" value="1970" />
+    <option name="y" value="80" />
+    <option name="width" value="1869" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,6 +195,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -451,16 +468,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -621,7 +628,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -735,11 +742,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: fily" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: fily" />
-      <item index="4" class="java.lang.String" itemvalue="Query Language Console.Default" />
+      <item index="0" class="java.lang.String" itemvalue="Query Language Console.Default" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="2" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Production: fily" />
+      <item index="4" class="java.lang.String" itemvalue="Rails.Development: fily" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -752,15 +759,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
+    <frame x="1970" y="80" width="1869" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33772653" sideWeight="0.67050207" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34634414" sideWeight="0.67050207" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -770,6 +776,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -839,58 +846,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/boot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/file-uploads.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.fileupload.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.ui.widget.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -904,31 +891,27 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/locale.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/fileupload/_js_include_local.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="65" selection-start="2233" selection-end="2233" vertical-scroll-proportion="-5.8846154">
+        <state line="44" column="65" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/_fileupload.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.692307">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -936,15 +919,13 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.fileupload-fp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/fileupload/_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="125" selection-start="782" selection-end="795" vertical-scroll-proportion="-7.1923075">
+        <state line="11" column="125" selection-start="782" selection-end="795" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -958,7 +939,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="25" selection-start="844" selection-end="844" vertical-scroll-proportion="1.1853741">
+        <state line="39" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="0.68878716">
           <folding />
         </state>
       </provider>
