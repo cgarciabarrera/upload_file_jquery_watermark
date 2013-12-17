@@ -4,12 +4,12 @@
     <list default="true" id="8834fd1b-c315-411a-837e-664c40d277f8" name="Default" comment="" />
     <ignored path="fily.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/avatar_uploader.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387224241245" ignored="false" />
+    <file path="/avatar_uploader.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387305609083" ignored="false" />
     <file path="/Gemfile" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386805703476" ignored="false" />
-    <file path="/a.dummy" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386851838525" ignored="false" />
-    <file path="$PROJECT_DIR$/log/development.log" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386850571351" ignored="false" />
+    <file path="/a.dummy" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387298141474" ignored="false" />
+    <file path="$PROJECT_DIR$/log/development.log" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387305764213" ignored="false" />
     <file path="/_index.html" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386851802841" ignored="false" />
-    <file path="/picture.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386852103966" ignored="false" />
+    <file path="/picture.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387299766239" ignored="false" />
     <file path="$PROJECT_DIR$/../freeditorial/app/controllers/books_controller.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944897525" ignored="false" />
     <file path="/Dummy.txt" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944906269" ignored="false" />
     <file path="$PROJECT_DIR$/../fundspeople/db/schema.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
@@ -25,6 +25,29 @@
     <file path="$PROJECT_DIR$/../fundspeople/app/models/news_item.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
     <file path="$PROJECT_DIR$/../fundspeople/db/migrate/20130306102231_add_visible_to_users.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
     <file path="$PROJECT_DIR$/../fundspeople/app/views/modulos/_rotador_superior.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1386944959005" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.es.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279717668" ignored="false" />
+    <file path="/regalo.es.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279715145" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.en.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279658169" ignored="false" />
+    <file path="/regalo.en.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279654546" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.ar.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279675985" ignored="false" />
+    <file path="/regalo.ar.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279676285" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.de.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279693425" ignored="false" />
+    <file path="/regalo.de.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279693425" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.fr.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279732748" ignored="false" />
+    <file path="/regalo.fr.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279732748" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.it.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279747173" ignored="false" />
+    <file path="/regalo.it.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279747173" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.ja.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279758088" ignored="false" />
+    <file path="/regalo.ja.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279758088" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.pt.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279770005" ignored="false" />
+    <file path="/regalo.pt.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279770005" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.ru.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279780175" ignored="false" />
+    <file path="/regalo.ru.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279780175" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/config/locales/regalo.zh.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279792803" ignored="false" />
+    <file path="/regalo.zh.yml" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279790680" ignored="false" />
+    <file path="/_formsendbook.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279819065" ignored="false" />
+    <file path="$PROJECT_DIR$/../freeditorial/app/views/books/_formsendbook.html.erb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387279820616" ignored="false" />
+    <file path="/fragment.rb" changelist="8834fd1b-c315-411a-837e-664c40d277f8" time="1387301730992" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_fileupload.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_fileupload.html.erb">
+      <file leaf-file-name="avatar_uploader.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.fileupload-fp.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.fileupload-fp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/fileupload/_index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="125" selection-start="782" selection-end="795" vertical-scroll-proportion="0.0">
+            <state line="22" column="14" selection-start="500" selection-end="500" vertical-scroll-proportion="0.59266055">
               <folding />
             </state>
           </provider>
@@ -74,61 +79,7 @@
       <file leaf-file-name="picture.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/picture.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="37" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.ui.widget.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/jquery.ui.widget.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="avatar_uploader.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="56" selection-start="884" selection-end="884" vertical-scroll-proportion="0.23469388">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load-image.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/load-image.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="locale.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/locale.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/JQuery-File-Upload/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_js_include_local.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/fileupload/_js_include_local.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="65" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.0">
+            <state line="11" column="51" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -163,11 +114,37 @@
       </list>
     </option>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="-4" />
-    <option name="width" value="1873" />
-    <option name="height" value="1085" />
+    <option name="x" value="1969" />
+    <option name="y" value="24" />
+    <option name="width" value="1871" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -195,16 +172,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -467,13 +435,26 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Errors" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
@@ -484,7 +465,7 @@
       <recent name="$PROJECT_DIR$/app/views/pictures" />
     </key>
   </component>
-  <component name="RunManager" selected="Query Language Console.Default">
+  <component name="RunManager" selected="Rails.Development: fily">
     <configuration default="false" name="Default" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console" temporary="true">
       <option name="VM_PARAMETERS" value="" />
       <option name="USER_CFG_CLASS" />
@@ -739,6 +720,8 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <method />
     </configuration>
     <list size="5">
@@ -758,26 +741,46 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1873" height="1085" extended-state="6" />
-    <editor active="false" />
+    <frame x="1969" y="24" width="1871" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294979" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3509061" sideWeight="0.67050207" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35584843" sideWeight="0.6004184" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -841,14 +844,11 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="18" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -930,16 +930,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p194@uploader/gems/carrierwave-0.6.2/lib/carrierwave/uploader/versions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="43" selection-start="6074" selection-end="6074" vertical-scroll-proportion="0.39449543">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/picture.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
+        <state line="11" column="51" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/uploaders/avatar_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="56" selection-start="884" selection-end="884" vertical-scroll-proportion="0.23469388">
+        <state line="22" column="14" selection-start="500" selection-end="500" vertical-scroll-proportion="0.59266055">
           <folding />
         </state>
       </provider>
