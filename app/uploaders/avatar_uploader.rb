@@ -30,7 +30,7 @@ class AvatarUploader < CarrierWave::Uploader::Base
   end
 
   version :miniatura_rectangular, :from_version => :redes_sociales do
-    process :resize_to_limit => [106,71]
+    process :resize_to_limit => [106,80]
     process :quality => 60
     process :sharp
   end
